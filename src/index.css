@@ -1,0 +1,64 @@
+body {
+  margin: 5;
+  padding: 0;
+  font-family: sans-serif;
+  width: 380px;
+}
+
+#potter-box{
+  border: 2px solid black;
+  height: 500px;
+  border-radius: 5px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/236x/b7/3f/f5/b73ff5806a2eb88bfa566ed4b9b47968--phone-backgrounds-iphone-wallpaper.jpg);
+
+}
+
+#logo{
+  width: 380px;
+  float: left;
+}
+
+#wizard-selector{
+  float:left;
+  margin-left: 90px;
+  width: 200px;
+  height: 50px;
+  background-color: darkgrey;
+  border: 1px solid black;
+  font-size: 16px;
+  }
+
+  #wizard-bio{
+    margin-top: 300px;
+    text-align: right;
+    font-size:
+  }
+
+  #bio-img{
+    width: 130px;
+    height: 180px;
+    float: left;
+    margin: 0px 5px 25px 25px;
+    border: 2px solid silver;
+    border-radius: 3px;
+  }
+
+  #bio-name{
+    margin: 25px 25px 15px 0px;
+    color: white;
+  }
+
+  #bio-dob{
+    margin: 10px 25px 15px 0px;
+        color: white;
+  }
+  #bio-house{
+    margin: 10px 25px 15px 0px;
+        color: white;
+  }
+  #bio-ancestry{
+    margin: 10px 25px 15px 0px;
+        color: white;
+  }
